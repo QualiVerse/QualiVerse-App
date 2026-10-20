@@ -1,0 +1,2 @@
+# Installers are published as GitHub Release assets, never committed here.
+*.exe
