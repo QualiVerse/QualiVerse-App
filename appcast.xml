@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>QualiVerse System</title>
+    <title>QualiVerse.Te.V2</title>
     <item>
       <title>Version 1.0.17</title>
       <description>Automatic Windows update v1.0.17</description>
       <pubDate>Mon, 12 Oct 2026 14:53:52 GMT</pubDate>
-      <enclosure url="https://github.com/QualiVerse/QualiVerse-App/releases/latest/download/qualiverse_system_setup.exe"
+      <enclosure url="https://github.com/QualiVerse/QualiVerse-App/releases/latest/download/QualiVerse.Te.V2.exe"
                  sparkle:version="1.0.17"
                  sparkle:os="windows"
                  type="application/octet-stream" />

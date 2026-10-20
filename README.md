@@ -1,6 +1,6 @@
 # QualiVerse App
 
-**[Download QualiVerse for Windows](https://github.com/QualiVerse/QualiVerse-App/releases/latest/download/qualiverse_system_setup.exe)**
+**[Download QualiVerse.Te.V2 for Windows](https://github.com/QualiVerse/QualiVerse-App/releases/latest/download/QualiVerse.Te.V2.exe)**
 
 [View all releases](https://github.com/QualiVerse/QualiVerse-App/releases)
 
