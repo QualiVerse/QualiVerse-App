@@ -1,13 +1,19 @@
 # QualiVerse App
 
-**[Download QualiVerse.Te.V2 for Windows](https://github.com/QualiVerse/QualiVerse-App/releases/latest/download/QualiVerse.Te.V2.exe)**
+Download the latest version for your computer:
 
-**[Download QualiVerse.Te.V2 for macOS](https://github.com/QualiVerse/QualiVerse-App/releases/latest/download/QualiVerse.Te.V2-macOS.zip)**
+| Platform | Download | Install |
+| --- | --- | --- |
+| Windows | [QualiVerse.Te.V2.exe](https://github.com/QualiVerse/QualiVerse-App/releases/latest/download/QualiVerse.Te.V2.exe) | Open the downloaded installer and follow its steps. Then launch **QualiVerse.Te.V2** from the Start menu or desktop shortcut. |
+| macOS | [QualiVerse.Te.V2-macOS.zip](https://github.com/QualiVerse/QualiVerse-App/releases/latest/download/QualiVerse.Te.V2-macOS.zip) | Open the ZIP file, move **QualiVerse.Te.V2.app** to **Applications**, then open it from Applications. |
+
+Already installed the app? It checks for new releases and can update itself, so you do not need to download it again for each version.
 
 [View all releases](https://github.com/QualiVerse/QualiVerse-App/releases)
 
-The frontend repository's GitHub Actions workflow builds Windows and macOS releases and publishes each app with its SHA-256 checksum as Release assets. Installed versions check the latest public Release, download the matching platform asset, and verify its checksum before updating.
+## التثبيت بالعربي
 
-`version.json` and `appcast.xml` remain in this repository for Windows update metadata and are refreshed by the publishing workflow. App binaries are stored only in Releases.
+- **ويندوز:** حمّل ملف [QualiVerse.Te.V2.exe](https://github.com/QualiVerse/QualiVerse-App/releases/latest/download/QualiVerse.Te.V2.exe)، افتحه واتبع خطوات التثبيت، وبعدها شغّل التطبيق من قائمة Start أو اختصار سطح المكتب.
+- **ماك:** حمّل ملف [QualiVerse.Te.V2-macOS.zip](https://github.com/QualiVerse/QualiVerse-App/releases/latest/download/QualiVerse.Te.V2-macOS.zip)، فك الضغط، وانقل **QualiVerse.Te.V2.app** إلى مجلد **Applications** ثم شغّله منه.
 
-The frontend workflow needs an `UPDATE_REPO_TOKEN` secret with Contents: Read and write permission for this repository.
+التطبيق المثبّت يقدر يتحقق من التحديثات وينزّل النسخة الجديدة، من غير ما تثبّته من البداية كل مرة.
