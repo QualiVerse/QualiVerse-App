@@ -1,8 +1,8 @@
 {
-  "version": "1.0.12",
+  "version": "2.0.1",
   "force": false,
-  "url": "https://github.com/QualiVerse/QualiVerse-App/releases/download/v1.0.12/QualiVerse.Te.V2.exe",
-  "sha256": "afa81833a4917798fc78ac073b1b66d078e0bee392a84baf14a0c11597a4075d",
-  "notes": "Automatic Windows update v1.0.12",
-  "publishedAt": "2026-10-21T08:14:00.0400239Z"
+  "url": "https://github.com/QualiVerse/QualiVerse-App/releases/download/v2.0.1/QualiVerse.Te.V2.exe",
+  "sha256": "9f5c176ae39746b0eff7c57f0b976a7e50e1a03d11d92e460a2064d61e8cf704",
+  "notes": "Automatic Windows update v2.0.1",
+  "publishedAt": "2026-10-21T08:39:59.0229865Z"
 }
