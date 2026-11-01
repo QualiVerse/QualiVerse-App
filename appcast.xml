@@ -3,11 +3,11 @@
   <channel>
     <title>QualiVerse.Te.V2</title>
     <item>
-      <title>Version 2.0.4</title>
-      <description>Automatic Windows update v2.0.4</description>
-      <pubDate>Sat, 31 Oct 2026 18:44:35 GMT</pubDate>
-      <enclosure url="https://github.com/QualiVerse/QualiVerse-App/releases/download/v2.0.4/QualiVerse.Te.V2.exe"
-                 sparkle:version="2.0.4"
+      <title>Version 2.0.5</title>
+      <description>Automatic Windows update v2.0.5</description>
+      <pubDate>Sun, 01 Nov 2026 20:48:38 GMT</pubDate>
+      <enclosure url="https://github.com/QualiVerse/QualiVerse-App/releases/download/v2.0.5/QualiVerse.Te.V2.exe"
+                 sparkle:version="2.0.5"
                  sparkle:os="windows"
                  type="application/octet-stream" />
     </item>
